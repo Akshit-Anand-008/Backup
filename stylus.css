@@ -1,0 +1,9 @@
+//font
+body, p, h1, h2, h3, h4, h5, h6, li, td, th, a, label, input, button, select {
+  font-family: "Your Font", sans-serif !important;
+}
+
+//square
+* {
+    border-radius: 0 !important;
+}
