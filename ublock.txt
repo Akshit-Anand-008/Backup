@@ -1,17 +1,28 @@
-! https://gemini.google.com
+! Oct 5, 2026 https://gemini.google.com
 gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
 
-! https://www.google.com
+! Oct 7, 2026 https://www.google.com
 www.google.com##.C6AK7c.XVMlrc > .mXwfNd > .mVH5Fc
 www.google.com##div.EjQTId.YNk70c:nth-of-type(1)
 
-! https://www.youtube.com
+! Oct 7, 2026 https://www.youtube.com
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 
-! https://math.stackexchange.com
+! Oct 10, 2026 https://math.stackexchange.com
 math.stackexchange.com##.js-sticky-bottom-sidebar.md\:ps-static.ps-sticky.show-votes
 math.stackexchange.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
 
-! https://www.geeksforgeeks.org
+! Oct 10, 2026 https://www.geeksforgeeks.org
 www.geeksforgeeks.org##.ArticlePageRightBar_searchRightBar__osfQl
 www.geeksforgeeks.org##.LeftbarContainer_leftBarContainer___TfRB
+
+! Oct 11, 2026 https://open.spotify.com
+open.spotify.com##.SZ6dK14JemqUjXTxMB9S.e-10860-legacy-button--small.encore-inverted-light-set.e-10860-button-primary__inner.e-10860-overflow-wrap-anywhere
+open.spotify.com##.encore-internal-color-text-subdued.e-10860-button-tertiary--text-subdued.e-10860-button--leading.e-10860-button-tertiary--small.e-10860-legacy-button--small.encore-text-body-small-bold.e-10860-overflow-wrap-anywhere.e-10860-legacy-button-tertiary.e-10860-legacy-button
+
+! Oct 15, 2026 https://gemini.google.com
+gemini.google.com##.ng-star-inserted.desktop-spacing.gds-body-s
+
+! Oct 17, 2026 https://stackoverflow.com
+stackoverflow.com##.js-sticky-bottom-sidebar.md\:ps-static.ps-sticky.show-votes
+stackoverflow.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
